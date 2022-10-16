@@ -1,0 +1,17 @@
+Date: Sun, 16 Oct 2022 10:57:23 +0000
+MD5Sum:
+ 6d9400536bfb36171c9531bf85076eb1              923 Packages
+ 95beb8de481b681a3308510501b7ec75              612 Packages.gz
+ 02a2ee888eb6ca629046764720d3d95c               38 Release
+SHA1:
+ 3a749bf1e3aec1aec4f411472fe3bb8b79d05f54              923 Packages
+ e1b4cb16ff4009d6919e3a0fcea83fe2eab20b8b              612 Packages.gz
+ 543fa9956e9eb80e8aeda58f0a24e068d8896eaa               38 Release
+SHA256:
+ 0ba682a0e51dd670ea07be0cac4e13f5f5a5d3cf8959f53f1379ad545b5ba177              923 Packages
+ a8d0f0f4c66797e8dbaaf1be7a6bcebb2bb1b03f2e9412a6e5526d97607d9ae2              612 Packages.gz
+ e5bdaf8eadde57eca4d7c88f0bce693eb04770ef0f0d5a386abfe9c54ff44430               38 Release
+SHA512:
+ cdca608329d6cf33975aa717a5ac755cb890941ded82875edf582e02d500ee1e1c5e3f2f12e78ea7e5e38e192002d16db934aceb28a5a094d45862b63000cd76              923 Packages
+ c74675218c12d10d095321a145b66f693836de5c0ceaef9a3dcfd1210dcc7eafb0f7a6a5c807eead6e1c3c2d3b52a57b91fecb24515d15a0ae35707605655506              612 Packages.gz
+ 9afbd933ffb3093d85da3c80d8c41236b6427d40f79a07beb3a6e2e5c68d81b2214d27b0034d0d91349314c820e1f5731c6cb3e226718e47294af1ea4efe0403               38 Release
